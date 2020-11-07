@@ -22,7 +22,7 @@ body {
     font-family: 'Roboto';
     font-weight: 300;
     height: 100vh;
-    color: black;
+    color: #2f2d2d;
     font-size: 16px;
     background-color: #ffffff;
     position: relative;
@@ -47,6 +47,11 @@ h1 {
     font-weight: 400;
     margin-bottom: 20px;
     text-align: center;
+}
+h2 {
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 #img {
